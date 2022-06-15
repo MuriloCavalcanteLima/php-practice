@@ -1,0 +1,7 @@
+Como converter Json para Array em PHP (e vice-versa).
+    Array to Json:
+        json_encode('$nome_array');
+
+    Json to Array:
+        $STRING = 'Conteudo do json';
+        json_decode($nome_array)
