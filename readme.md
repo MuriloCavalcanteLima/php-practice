@@ -1,7 +1,7 @@
 Este repositório é destinado a publicação de exercícios de lógica programação em PHP
 
 ## Informações sobre os arquivos:
-Para o funcionamento dos programas será necessário rodas os arquivos em um servidor local, a fereramenta de host que utiliei para execução dos códigos foi o XAMPP.
+Para o funcionamento dos programas será necessário rodar os arquivos em um servidor local, a fereramenta de host que utiliei para execução dos códigos foi o XAMPP.
 Foi adicionado ao repositório a pasta (py_projects) contendo exercícios realizados recentemente por mim na linguagem Python caso seja interessante avaliar.
 
 ## Notas:
